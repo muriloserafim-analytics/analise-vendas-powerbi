@@ -1,2 +1,3 @@
-# analise-vendas-powerbi
-Análise de dados de vendas com Power BI, explorando KPIs e geração de insights.
+📊 Análise Estratégica de Vendas
+
+Projeto desenvolvido com foco em análise de desempenho comercial, utilizando dados para gerar insights estratégicos para tomada de decisão.
