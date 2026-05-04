@@ -20,3 +20,5 @@ Projeto de análise de dados utilizando Power BI com foco em indicadores de vend
 
 ## 📷 Dashboard
 ![Dashboard](dashboard.png)
+
+⚠️ O arquivo .pbix pode ser baixado diretamente para visualização no Power BI Desktop.
